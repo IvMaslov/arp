@@ -1,0 +1,4 @@
+github.com/IvMaslov/ethernet v0.0.0-20241027145735-aa9bbc33d908 h1:6lxlrStSOMDxBzv1x+2yTWLWBFbpYvDyb6JHsy5+Qds=
+github.com/IvMaslov/ethernet v0.0.0-20241027145735-aa9bbc33d908/go.mod h1:+cz9QHucfM2jugHIxKP8p7NFpOsSkFKTNRRkRYOZrlU=
+github.com/IvMaslov/socket v0.0.0-20240915140105-462ec1eaaa87 h1:M2OQlROrorjvkX5LZ9N+flTl9FBR52hJ4UFaUjePyeQ=
+github.com/IvMaslov/socket v0.0.0-20240915140105-462ec1eaaa87/go.mod h1:ko+D8uje6S7ekG3lG9utP6+Xnam8p3Ioesbj1tFo+Hk=
